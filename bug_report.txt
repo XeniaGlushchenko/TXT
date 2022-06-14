@@ -1,1 +1,5 @@
-
+  Bug description: Exit buttons with visual flaw
+  Bug type: Visual
+  Expected result: The exit button is visually symmetrical
+  Actual result: The cross in this button is not centered, shifted to the right from the center
+  Severity: Low
